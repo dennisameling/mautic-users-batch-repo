@@ -1,0 +1,13 @@
+{
+    "name": "dennisameling/mautic-users-batch-repo",
+    "description": "Reproducing a bug with batch creating/editing users in Mautic",
+    "require": {
+        "mautic/api-library": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Dennis Ameling",
+            "email": "dennis.ameling@mautic.org"
+        }
+    ]
+}
